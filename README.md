@@ -1,6 +1,6 @@
 # Just for Fun. No, Really.
 
-[![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://github.com/seven1m/justforfunnoreally.dev)
+[![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
 
 For my FOSS work, this page attempts to sum up my motivations and to perhaps help people
 return to the joy of programming, for the simple enjoyment of the process itself.
