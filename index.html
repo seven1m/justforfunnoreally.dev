@@ -15,10 +15,13 @@
       .ribbon { width: 300px; background-color: #a00; overflow: hidden; white-space: nowrap; position: absolute; right: -70px; top: 70px; transform: rotate(45deg); box-shadow: 0 0 10px #888; }
       .ribbon a { border: 1px solid #faa; color: #fff; display: block; font: bold 81.25% "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 1px 0; padding: 10px 50px; text-align: center; text-decoration: none; text-shadow: 0 0 5px #444; }
       img.midline { vertical-align: middle; }
+      @media only screen and (max-width: 530px) {
+        .mobile-no-break { display: block; }
+      }
     </style>
   </head>
   <body>
-    <h1>Just for Fun. No, Really.</h1>
+    <h1>Just for Fun. <span class="mobile-no-break">No, Really.</span></h1>
     <p>You may have been directed to this page because you or someone else asked one of the following questions:</p>
     <ul>
       <li>“Why are you doing this?”</li>
