@@ -31,5 +31,6 @@ the pattern and instructions:
 
    - The first word must be the article "a" or "an".
    - The next 2-5 words is a description of your project.
+   - Seriously, **ONLY 2-5 words after "a/an" and the comma!**
    - Next, you must follow with a comma (,) and the words
      "for fun", as above.
